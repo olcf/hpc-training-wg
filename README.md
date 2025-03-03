@@ -2,11 +2,11 @@
 
 This working group started as a result of discussions at Supercomputing'23 and spans HPC centers both in academia and at national laboratories. The main goals for this working group are to:
 
-1. Share best practices, experiences, and ideas,
-1. Share upcoming user training and outreach events,
-1. Share collaboration opportunities (e.g., on training series),
-1. Share training materials (e.g., to avoid duplication), and
-1. Explore platforms for sharing with the broader community (e.g., [HPC-ED](https://hpc-ed.github.io/), [SIGHPC Education Events Calendar](https://sighpceducation.acm.org/events/)).
+- Share best practices, experiences, and ideas,
+- Share upcoming user training and outreach events,
+- Share collaboration opportunities (e.g., on training series),
+- Share training materials (e.g., to avoid duplication), and
+- Explore platforms for sharing with the broader community (e.g., [HPC-ED](https://hpc-ed.github.io/)).
 
 ## Get Involved
 
