@@ -38,7 +38,7 @@ John K. Holmen [@jholmen](https://github.com/jholmen)
   - Document on GitHub instead?
 
 - Discussed HPC-ED for sharing training materials
-  - https://hpc-ed.github.io/
+  - [https://hpc-ed.github.io/](https://hpc-ed.github.io/)
   - Federated repository with many ways to contribute
   - Already maintain a Google Sheet, update for HPC-ED?
 
