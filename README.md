@@ -27,7 +27,6 @@ John K. Holmen [@jholmen](https://github.com/jholmen)
 
 <details markdown="1">
 <summary>2025-02-25</summary>
-<br>
 
 - Discussed ways to store training materials
   - Box, Dropbox, GitHub, Google Drive
@@ -51,7 +50,6 @@ John K. Holmen [@jholmen](https://github.com/jholmen)
 
 <details markdown="1">
 <summary>2025-01-28</summary>
-<br>
 
 - Discussed common goals
   - Key goal to stay up to date on each other's efforts
