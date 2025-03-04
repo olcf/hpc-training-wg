@@ -25,7 +25,7 @@ John K. Holmen [@jholmen](https://github.com/jholmen)
 
 ## Meeting Notes
 
-<details>
+<details markdown="1">
 <summary>2025-02-25</summary>
  
 - Discussed ways to store training materials
@@ -47,7 +47,7 @@ John K. Holmen [@jholmen](https://github.com/jholmen)
   - Document on GitHub instead
 </details>
 
-<details>
+<details markdown="1">
 <summary>2025-01-28</summary>
  
 - Discussed common goals
