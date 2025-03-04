@@ -1,8 +1,8 @@
 # Meeting Notes
 
-[2025-02-25](https://github.com/olcf/hpc-training-wg/blob/main/meetingnotes.md#2025-02-25)
+[2025-02-25](https://olcf.github.io/hpc-training-wg/meetingnotes#2025-02-25)
 
-[2025-01-28](https://github.com/olcf/hpc-training-wg/blob/main/meetingnotes.md#2025-01-28)
+[2025-01-28](https://olcf.github.io/hpc-training-wg/meetingnotes#2025-01-28)
 
 ## 2025-02-25
 
