@@ -1,5 +1,9 @@
 # Meeting Notes
 
+[2025-02-25](https://github.com/olcf/hpc-training-wg/blob/main/meetingnotes.md#2025-02-25)
+
+[2025-01-28](https://github.com/olcf/hpc-training-wg/blob/main/meetingnotes.md#2025-01-28)
+
 ## 2025-02-25
 
 - Discussed ways to store training materials
