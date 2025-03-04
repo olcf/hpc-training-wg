@@ -12,8 +12,8 @@ This working group started as a result of discussions at Supercomputing'23 and s
 
 There are several ways you can get involved:
 
- - Add resources to the [Wiki](https://github.com/olcf/hpc-training-wg/wiki)
- - Participate in monthly meetings
+ - Join the Slack community
+ - Participate in [monthly meetings](https://github.com/olcf/hpc-training-wg/blob/main/meetingnotes.md)
  - Share your training events and materials
    
 If you have any questions or would like to contribute, please feel free to open an [issue](https://github.com/olcf/hpc-training-wg/issues) or send a 
