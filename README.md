@@ -26,7 +26,7 @@ John K. Holmen [@jholmen](https://github.com/jholmen)
 ## Meeting Notes
 
 <details markdown="1">
-<summary>2025-02-25</summary>
+<summary><h4>2025-02-25</h4></summary>
  
 - Discussed ways to store training materials
   - Box, Dropbox, GitHub, Google Drive
