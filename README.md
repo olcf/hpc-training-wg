@@ -26,6 +26,36 @@ John K. Holmen [@jholmen](https://github.com/jholmen)
 ## Meeting Notes
 
 <details markdown="1">
+<summary>2025-05-27</summary>
+
+- Discussed training advertisements
+  - Current Slack-based approach works well for centers
+  - Cross-center training calendar not needed at the time
+  - Targeted event-specific announcements bring most registrants
+
+- Discussed training opportunities
+  - Cross-center CMake training discussions in progress
+  - Potential opportunity for ParaView training
+ 
+- Discussed a BPHTE25 paper submission
+  - [https://sighpceducation.acm.org/events/bphte25cfp/](https://sighpceducation.acm.org/events/bphte25cfp/)
+  - Highlight individual and collaborative efforts across centers
+  - Highlight challenges and lessons learned through the group
+  - Highlight other collaborative efforts in HPC education and training
+
+</details>
+
+<details markdown="1">
+<summary>2025-04-22</summary>
+
+- Discussed a USRSE'25 short talk submission
+  - [https://us-rse.org/usrse25/](https://us-rse.org/usrse25/)
+  - Highlight challenges and lessons learned through the group
+  - Highlight ways we've found to collaborate
+
+</details>
+
+<details markdown="1">
 <summary>2025-03-25</summary>
 
 - Did not meet
