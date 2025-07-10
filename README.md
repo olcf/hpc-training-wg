@@ -26,6 +26,29 @@ John K. Holmen [@jholmen](https://github.com/jholmen)
 ## Meeting Notes
 
 <details markdown="1">
+<summary>2025-07-22</summary>
+
+- Did not meet
+
+</details>
+
+<details markdown="1">
+<summary>2025-06-24</summary>
+
+- Discussed user vetting
+  - How to handle walk-in training events?
+  - Physical tokens or proxy accounts?
+- Discussed training opportunities
+  - How to split CMake training cost?
+  - Discussion to plan ParaView training soon
+  - Potential opportunity for Chapel training
+- Discussed the BPHTE25 paper submission
+  - Center-specific drafts started
+  - Cross-center collaborations next
+
+</details>
+
+<details markdown="1">
 <summary>2025-05-27</summary>
 
 - Discussed training advertisements
