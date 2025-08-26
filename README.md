@@ -26,6 +26,28 @@ John K. Holmen [@jholmen](https://github.com/jholmen)
 ## Meeting Notes
 
 <details markdown="1">
+<summary>2025-08-26</summary>
+
+- Discussed training opportunities
+  - Advertisement page live for ParaView training
+  - Who can contribute funds for CMake training? 
+  - Who is interested in Chapel training?
+
+- Discussed the BPHTE25 paper submission
+  - Extended abstract submitted
+  - Full passes needed before paper submission
+
+- Discussed public presence
+  - Host a BoF at SC or ISC?
+  - Host a training collaborator matching event?
+
+- Discussed HPC Carpentry
+  - Shared experiences with past events
+  - Discussed training models and certification
+
+</details>
+
+<details markdown="1">
 <summary>2025-07-22</summary>
 
 - Did not meet
