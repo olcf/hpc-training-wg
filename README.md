@@ -45,6 +45,10 @@ John K. Holmen [@jholmen](https://github.com/jholmen)
   - Shared experiences with past events
   - Discussed training models and certification
 
+- Shared resources
+  - https://www.bpccenter.org/inspired-25
+  - https://intersect-training.org/training-links/
+
 </details>
 
 <details markdown="1">
