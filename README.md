@@ -26,6 +26,21 @@ John K. Holmen [@jholmen](https://github.com/jholmen)
 ## Meeting Notes
 
 <details markdown="1">
+<summary>2025-09-23</summary>
+
+- Discussed training opportunities
+  - All ready for ParaView training
+  - CMake training pending decision on funding
+  - LaTeX training available as part of Overleaf subscription
+
+- Discussed the BPHTE25 paper submission
+  - Full paper submitted
+  - Initial slides submitted
+  - Edits welcome to finalize slides
+
+</details>
+
+<details markdown="1">
 <summary>2025-08-26</summary>
 
 - Discussed training opportunities
