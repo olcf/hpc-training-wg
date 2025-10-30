@@ -26,6 +26,21 @@ John K. Holmen [@jholmen](https://github.com/jholmen)
 ## Meeting Notes
 
 <details markdown="1">
+<summary>2025-10-28</summary>
+
+- New Member Matthew Sgambati (representing Idaho National Laboratory) joined the group
+- CMake Training 
+  - We are still interested in hosting the training
+  - The decision is postponed until after the government shutdown is resolved
+- Paper Opportunity – Work at National Labs –
+  - There is interest in developing a paper about experiences working at national labs
+  - The theme is not yet finalized
+  - The next step is to conduct a literature review to help decide on the focus
+- November Meeting – We will skip the November meeting since most members will meet at SC
+- December Meeting – The December meeting is moved to December 16th due to the holiday season
+
+</details>
+<details markdown="1">
 <summary>2025-09-23</summary>
 
 - Discussed training opportunities
