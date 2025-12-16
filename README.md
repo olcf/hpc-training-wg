@@ -26,6 +26,43 @@ John K. Holmen [@jholmen](https://github.com/jholmen)
 ## Meeting Notes
 
 <details markdown="1">
+<summary>2025-12-16</summary>
+
+- Discussed CMake training
+  - Week of Feb. 23rd the current target
+  - Early system access needed for center-specific content
+
+- Discussed short-form content
+  - Several centers developing such videos
+  - 5-10 minutes a "sweet spot"
+  - Examples include "How to Login", "What is SSH"
+  - "Tip of the Day" when logging onto systems also popular
+
+- Discussed the paper opportunity
+  - Several interested
+  - Scope needs decided upon
+  - Compare academia, industry, and national labs?
+  - USRSE'26 a potential venue?
+
+- Discussed material collections
+  - Revisit the 2024 spreadsheet?
+  - [HPC-ED](https://hpc-ed.github.io/) an option
+
+- Shared resources
+  - [https://www.youtube.com/@CornellCAC](https://www.youtube.com/@CornellCAC)
+  - [https://www.youtube.com/playlist?list=PL20S5EeApOStFIgRcXq4ug8kzdobIP3mW](https://www.youtube.com/playlist?list=PL20S5EeApOStFIgRcXq4ug8kzdobIP3mW)
+  - [https://www.youtube.com/@TACC_training/videos](https://www.youtube.com/@TACC_training/videos)
+
+</details>
+
+<details markdown="1">
+<summary>2025-11-25</summary>
+
+- Did not meet
+
+</details>
+
+<details markdown="1">
 <summary>2025-10-28</summary>
 
 - New Member Matthew Sgambati (representing Idaho National Laboratory) joined the group
@@ -40,6 +77,7 @@ John K. Holmen [@jholmen](https://github.com/jholmen)
 - December Meeting – The December meeting is moved to December 16th due to the holiday season
 
 </details>
+
 <details markdown="1">
 <summary>2025-09-23</summary>
 
