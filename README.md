@@ -25,6 +25,27 @@ John K. Holmen [@jholmen](https://github.com/jholmen)
 
 ## Meeting Notes
 
+
+<details markdown="1">
+<summary>2026-01-27</summary>
+
+- Welcoming new institutions
+    - North Dakota State University
+    - Stanford Univeristy
+
+- CMake Training
+    - [Website](https://www.nersc.gov/news-and-events/calendar-of-events/cmake-feb2026)
+
+- USRSE paper
+  - Deadline will be around mid of May 2026
+  - Brainstormed the outline 
+  - Authors will add more bullet points and text before the next meeting
+
+- BPHTE25 paper
+  - [Preprint](https://osf.io/preprints/edarxiv/sua4v_v1) published
+
+</details>
+
 <details markdown="1">
 <summary>2025-12-16</summary>
 
