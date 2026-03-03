@@ -25,6 +25,31 @@ John K. Holmen [@jholmen](https://github.com/jholmen)
 
 ## Meeting Notes
 
+<details markdown="1">
+<summary>2025-03-03</summary>
+
+- Discussed user personas
+  - What do our user bases look like?
+  - How can we learn more about each other's users?
+ 
+- Discuss CMake training
+  - 143 unique Day 1 attendees, 96 unique Day 2 attendees
+  - Training well-received with good feedback
+ 
+- Discussed training ideas
+  - Spack suggested for a future event
+  - Event could target Spack best practices and team guidance
+
+- Discussed hackathons
+  - Several hosting OpenHackathon events
+  - Mentors needed
+  - Typically 5-10 teams per event
+
+- Discussed a USRSE'26 submission
+  - Outline ready to be divvied up for writing
+  - Assigned intial authors for some sections
+
+</details>
 
 <details markdown="1">
 <summary>2026-01-27</summary>
