@@ -111,7 +111,8 @@ John K. Holmen [@jholmen](https://github.com/jholmen)
 <details markdown="1">
 <summary>2025-10-28</summary>
 
-- New Member Matthew Sgambati (representing Idaho National Laboratory) joined the group
+- Welcoming new institutions
+  - Idaho National Laboratory
 - CMake Training 
   - We are still interested in hosting the training
   - The decision is postponed until after the government shutdown is resolved
