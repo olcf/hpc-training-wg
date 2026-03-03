@@ -26,7 +26,7 @@ John K. Holmen [@jholmen](https://github.com/jholmen)
 ## Meeting Notes
 
 <details markdown="1">
-<summary>2025-03-03</summary>
+<summary>2026-03-03</summary>
 
 - Discussed user personas
   - What do our user bases look like?
