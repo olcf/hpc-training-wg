@@ -26,6 +26,27 @@ John K. Holmen [@jholmen](https://github.com/jholmen)
 ## Meeting Notes
 
 <details markdown="1">
+<summary>2026-03-24</summary>
+
+- Discussed an SC26 submission
+  - Prepare a BoF submission?
+  - Prepare a Panel submission?
+ 
+- Discuss Spack training
+  - Interest in hosting a Spack training event
+  - Requesting potential dates for an event
+ 
+- Discussed meeting format
+  - Open forum preferred?
+  - Agenda-driven preferred?
+
+- Discussed a USRSE'26 submission
+  - Refined goals for "Day in the Life" sections
+  - Need to revisit interest among the group
+
+</details>
+
+<details markdown="1">
 <summary>2026-03-03</summary>
 
 - Discussed user personas
