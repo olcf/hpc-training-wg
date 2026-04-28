@@ -297,3 +297,7 @@ John K. Holmen [@jholmen](https://github.com/jholmen)
   - Training tokens vs. traditional logins
 
 </details>
+
+# Publications
+
+- P. Diehl, Y. W. Li, C. Junghans, J. K. Holmen, E. MacCarthy, S. Parete-Koon, Y. H. He, R. Hartman-Baker, C. Lively, K. Gott, L. Gupta, K. Streu, Y. Ghadar, P. Kinsley, J. Herriman, E. W. Draeger, V. Eijkhout, and S. Mehringer. Shaping the futureworkforce: Challenges and lessons learned in hpc education from national labs and computing centers. The Journal of Computational Science Education, 17:19–27, Mar. 2026. [10.22369/issn.2153-4136/17/1/3](https://doi.org/10.22369/issn.2153-4136/17/1/3) [Preprint](https://osf.io/preprints/edarxiv/sua4v_v1)
