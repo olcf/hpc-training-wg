@@ -26,6 +26,22 @@ John K. Holmen [@jholmen](https://github.com/jholmen)
 ## Meeting Notes
 
 <details markdown="1">
+<summary>2026-04-28</summary>
+
+- SC 26 panel submitted
+- CUDA-Q training
+    - Double check with Nvidia if we can record 
+- Upcoming training:
+    - Julia training with ORNL hosted by LANL
+        - Thu 7/16/26 10:00 AM - 5:00 PM
+        - Cross-advertised by NERSC and NCAR
+    - Rust training with PNNL hosted by LANL
+        - Thu 7/30/26 10:00 AM - 5:00 PM
+    - NERSC workflow training 
+        - https://www.nersc.gov/workflows-may-2026
+</details>
+
+<details markdown="1">
 <summary>2026-03-24</summary>
 
 - Discussed an SC26 submission
