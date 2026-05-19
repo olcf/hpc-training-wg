@@ -313,3 +313,5 @@ John K. Holmen [@jholmen](https://github.com/jholmen)
   - Training tokens vs. traditional logins
 
 </details>
+
+<small>Approved by Los Alamos National Laboratory as LA-UR-26-24022.</small>
