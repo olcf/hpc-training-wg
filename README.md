@@ -21,7 +21,7 @@ If you have any questions or would like to contribute, please feel free to open 
 
 #### Contact:
 
-John K. Holmen [@jholmen](https://github.com/jholmen)  
+John K. Holmen [@jholmen](https://github.com/jholmen) or Patrick Diehl [diehlpk](https://github.com/diehlpk)  
 
 ## Meeting Notes
 
