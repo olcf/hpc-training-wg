@@ -26,6 +26,27 @@ John K. Holmen [@jholmen](https://github.com/jholmen) or Patrick Diehl [diehlpk]
 ## Meeting Notes
 
 <details markdown="1">
+<summary>2026-05-26</summary>
+
+- Discussed training events
+  - [LLNL 2026 HPC Tutorial Series](https://hpcic.llnl.gov/tutorials/2026-hpc-tutorials)
+  - [Stanford Bootcamp](https://github.com/matrics-bootcamp)
+ 
+- Discussed the USRSE'26 submission
+  - Draft near complete
+  - Final sections claimed
+ 
+- Discussed quantum training
+  - Who offers it or is preparing to?
+  - What does it look like and how can we collaborate?
+
+- Discussed the ORNL AI Clinic
+  - DOE Labs invited to join
+  - Prompt engineering a main focus
+
+</details>
+
+<details markdown="1">
 <summary>2026-04-28</summary>
 
 - SC 26 panel submitted
@@ -39,6 +60,7 @@ John K. Holmen [@jholmen](https://github.com/jholmen) or Patrick Diehl [diehlpk]
         - Thu 7/30/26 10:00 AM - 5:00 PM
     - NERSC workflow training 
         - https://www.nersc.gov/workflows-may-2026
+          
 </details>
 
 <details markdown="1">
@@ -48,7 +70,7 @@ John K. Holmen [@jholmen](https://github.com/jholmen) or Patrick Diehl [diehlpk]
   - Prepare a BoF submission?
   - Prepare a Panel submission?
  
-- Discuss Spack training
+ - Discuss Spack training
   - Interest in hosting a Spack training event
   - Requesting potential dates for an event
  
@@ -59,7 +81,7 @@ John K. Holmen [@jholmen](https://github.com/jholmen) or Patrick Diehl [diehlpk]
 - Discussed a USRSE'26 submission
   - Refined goals for "Day in the Life" sections
   - Need to revisit interest among the group
-
+  - 
 </details>
 
 <details markdown="1">
