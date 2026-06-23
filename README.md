@@ -21,9 +21,27 @@ If you have any questions or would like to contribute, please feel free to open 
 
 #### Contact:
 
-John K. Holmen [@jholmen](https://github.com/jholmen) or Patrick Diehl [diehlpk](https://github.com/diehlpk)  
+John K. Holmen ([jholmen](https://github.com/jholmen)) or Patrick Diehl ([diehlpk](https://github.com/diehlpk))  
 
 ## Meeting Notes
+
+<details markdown="1">
+<summary>2026-06-23</summary>
+
+- Discussed the [Stanford MATRICS Bootcamp](https://github.com/matrics-bootcamp) 
+  - 4-day Carpentries-style workshop
+  - Teaches from first job submission to profiling and optimization
+  - 5 mentors to 25 participants
+
+- Discussed other HPC workshops
+  - [Intro to HPC Bootcamp](https://intro-hpc-bootcamp.alcf.anl.gov/)
+  - [Oak Ridge Computing Academy](https://efposadac.github.io/orca-hpct/index.html#)
+
+- Discussed AI for HPC support
+  - How can we use AI to improve how users interact with systems?
+  - Several centers developing/have chatbots
+
+</details>
 
 <details markdown="1">
 <summary>2026-05-26</summary>
