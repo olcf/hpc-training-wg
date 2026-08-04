@@ -28,7 +28,7 @@ John K. Holmen ([jholmen](https://github.com/jholmen)) or Patrick Diehl ([diehlp
 <details markdown="1">
 <summary>2026-07-28</summary>
 
-- Did not meet
+- Canceled (PEARC)
 
 </details>
 
@@ -188,7 +188,7 @@ John K. Holmen ([jholmen](https://github.com/jholmen)) or Patrick Diehl ([diehlp
 <details markdown="1">
 <summary>2025-11-25</summary>
 
-- Did not meet
+- Canceled (SC)
 
 </details>
 
@@ -254,7 +254,7 @@ John K. Holmen ([jholmen](https://github.com/jholmen)) or Patrick Diehl ([diehlp
 <details markdown="1">
 <summary>2025-07-22</summary>
 
-- Did not meet
+- Canceled (PEARC)
 
 </details>
 
