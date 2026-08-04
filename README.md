@@ -26,6 +26,13 @@ John K. Holmen ([jholmen](https://github.com/jholmen)) or Patrick Diehl ([diehlp
 ## Meeting Notes
 
 <details markdown="1">
+<summary>2026-07-28</summary>
+
+- Did not meet
+
+</details>
+
+<details markdown="1">
 <summary>2026-06-23</summary>
 
 - Discussed the [Stanford MATRICS Bootcamp](https://github.com/matrics-bootcamp) 
