@@ -26,6 +26,22 @@ John K. Holmen ([jholmen](https://github.com/jholmen)) or Patrick Diehl ([diehlp
 ## Meeting Notes
 
 <details markdown="1">
+<summary>2026-08-25</summary>
+
+- Discussed training events
+  - [Cornell Scientific Computing Training Series](https://its.weill.cornell.edu/scientific-computing-training-series)
+  - [LLNL 2026 HPC Tutorial Series](https://hpcic.llnl.gov/tutorials/2026-hpc-tutorials)
+  - [U. of Texas Open Source Program Office Symposium, Incubator, and User Meeting](https://texas-opensource.org/events/osposium/)
+- Discussed in-person events
+  - Low attendance typical
+  - Funded opportunities successful
+- Discussed SC26
+  - Plan to meet in-person
+  - Patrick preparing panel slides
+
+</details>
+
+<details markdown="1">
 <summary>2026-07-28</summary>
 
 - Canceled (PEARC)
