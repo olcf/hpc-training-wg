@@ -26,6 +26,32 @@ John K. Holmen ([jholmen](https://github.com/jholmen)) or Patrick Diehl ([diehlp
 ## Meeting Notes
 
 <details markdown="1">
+<summary>2026-09-22</summary>
+
+- Discussed container training
+  - What is used across centers?
+  - Identify solutions across centers
+  - Training collaboration opportunity
+- Discussed quantum training
+  - What does it look like?
+  - Does quantum align with this group?
+  - Training collaboration opportunity
+- Discussed SC26
+  - Patrick submitted panel slides
+  - Moderator needed for in-person slides
+  - Sign up in Slack for in-person meetup
+- Discussed working group attendance
+  - Time slot still good?
+  - Reduce meeting cadence?
+  - Survey planned for Slack
+- Discussed future of HPC education
+  - What does it look like?
+  - How do we collaborate?
+  - Paper collaboration opportunity
+
+</details>
+
+<details markdown="1">
 <summary>2026-08-25</summary>
 
 - Discussed training events
