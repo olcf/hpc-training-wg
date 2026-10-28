@@ -48,7 +48,7 @@ John K. Holmen ([jholmen](https://github.com/jholmen)) or Patrick Diehl ([diehlp
 - Discussed paper writing
   - Target 1 training-related paper per year
   - Target SIGHPC Education workshops
-  - Convergence of AI, HPC, and Quantum training a potential topic
+  - Explore convergence of AI, HPC, and Quantum?
 - Discussed quantum training
   - How early to begin training workforce?
   - What types of materials are effective?
