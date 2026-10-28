@@ -26,6 +26,41 @@ John K. Holmen ([jholmen](https://github.com/jholmen)) or Patrick Diehl ([diehlp
 ## Meeting Notes
 
 <details markdown="1">
+<summary>2026-11-24</summary>
+
+- Canceled (SC)
+
+</details>
+
+<details markdown="1">
+<summary>2026-10-27</summary>
+
+- Discussed container training
+  - Webinar to highlight approaches across centers?
+  - Session on portability across centers?
+  - Create a matrix of tools, portability, etc.?
+- Discussed group logistics
+  - Scheduled an in-person SC26 meetup
+  - Canceled November's meeting
+  - Moved up December's meeting
+  - Calendar invite to be cleaned for 2027
+  - Group goals to be revisited for 2027
+- Discussed paper writing
+  - Target 1 training-related paper per year
+  - Target SIGHPC Education workshops
+  - Convergence of AI, HPC, and Quantum training a potential topic
+- Discussed quantum training
+  - How early to begin training workforce?
+  - What types of materials are effective?
+  - Training collaboration opportunity
+- Discussed coding agents
+  - Several agent-focused training efforts
+  - What models can be used?
+  - How do center policies differ?
+
+</details>
+
+<details markdown="1">
 <summary>2026-09-22</summary>
 
 - Discussed container training
