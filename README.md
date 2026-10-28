@@ -45,6 +45,7 @@ John K. Holmen ([jholmen](https://github.com/jholmen)) or Patrick Diehl ([diehlp
   - Moved up December's meeting
   - Calendar invite to be cleaned for 2027
   - Group goals to be revisited for 2027
+  - Meeting time to be revisited for 2027
 - Discussed paper writing
   - Target 1 training-related paper per year
   - Target SIGHPC Education workshops
